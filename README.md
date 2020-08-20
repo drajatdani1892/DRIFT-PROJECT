@@ -1,3 +1,6 @@
 # DRIFT-PROJECT
 
-Drajar, Reski, Ikram, Fariks
+
+# Drajat, Reski, Ikram, Farikh Tech Project
+projek hungkul
+
